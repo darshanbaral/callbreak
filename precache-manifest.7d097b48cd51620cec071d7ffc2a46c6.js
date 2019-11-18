@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ebab92e94e5579f4e050ea56e336528",
+    "revision": "dd26e01210fab211db0fdf94365b970e",
     "url": "/callbreak/index.html"
   },
   {
-    "revision": "f9ccca054e7508440b67",
+    "revision": "765669687265e40cd827",
     "url": "/callbreak/static/css/main.368a74aa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/callbreak/static/js/2.8b9c7c42.chunk.js"
   },
   {
-    "revision": "f9ccca054e7508440b67",
-    "url": "/callbreak/static/js/main.8555148f.chunk.js"
+    "revision": "765669687265e40cd827",
+    "url": "/callbreak/static/js/main.481a204f.chunk.js"
   },
   {
     "revision": "d166b6303e4967c29239",
