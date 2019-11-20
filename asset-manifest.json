@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/callbreak/static/css/main.368a74aa.chunk.css",
-    "main.js": "/callbreak/static/js/main.31f8e98d.chunk.js",
-    "main.js.map": "/callbreak/static/js/main.31f8e98d.chunk.js.map",
+    "main.css": "/callbreak/static/css/main.1088d040.chunk.css",
+    "main.js": "/callbreak/static/js/main.ba1f5b51.chunk.js",
+    "main.js.map": "/callbreak/static/js/main.ba1f5b51.chunk.js.map",
     "runtime~main.js": "/callbreak/static/js/runtime~main.a9318d4e.js",
     "runtime~main.js.map": "/callbreak/static/js/runtime~main.a9318d4e.js.map",
-    "static/js/2.8b9c7c42.chunk.js": "/callbreak/static/js/2.8b9c7c42.chunk.js",
-    "static/js/2.8b9c7c42.chunk.js.map": "/callbreak/static/js/2.8b9c7c42.chunk.js.map",
+    "static/js/2.a1b4ee5f.chunk.js": "/callbreak/static/js/2.a1b4ee5f.chunk.js",
+    "static/js/2.a1b4ee5f.chunk.js.map": "/callbreak/static/js/2.a1b4ee5f.chunk.js.map",
     "index.html": "/callbreak/index.html",
-    "precache-manifest.26f8270af24de52fd60ee0b912308ebd.js": "/callbreak/precache-manifest.26f8270af24de52fd60ee0b912308ebd.js",
+    "precache-manifest.47df0c3b48c5d0331266688c95c337b5.js": "/callbreak/precache-manifest.47df0c3b48c5d0331266688c95c337b5.js",
     "service-worker.js": "/callbreak/service-worker.js",
-    "static/css/main.368a74aa.chunk.css.map": "/callbreak/static/css/main.368a74aa.chunk.css.map"
+    "static/css/main.1088d040.chunk.css.map": "/callbreak/static/css/main.1088d040.chunk.css.map"
   }
 }
