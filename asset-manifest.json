@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/callbreak/static/css/main.d442ce3b.chunk.css",
-    "main.js": "/callbreak/static/js/main.bd3bda6b.chunk.js",
-    "main.js.map": "/callbreak/static/js/main.bd3bda6b.chunk.js.map",
+    "main.css": "/callbreak/static/css/main.8fe5989a.chunk.css",
+    "main.js": "/callbreak/static/js/main.390980fb.chunk.js",
+    "main.js.map": "/callbreak/static/js/main.390980fb.chunk.js.map",
     "runtime~main.js": "/callbreak/static/js/runtime~main.a9318d4e.js",
     "runtime~main.js.map": "/callbreak/static/js/runtime~main.a9318d4e.js.map",
     "static/js/2.a1b4ee5f.chunk.js": "/callbreak/static/js/2.a1b4ee5f.chunk.js",
     "static/js/2.a1b4ee5f.chunk.js.map": "/callbreak/static/js/2.a1b4ee5f.chunk.js.map",
     "index.html": "/callbreak/index.html",
-    "precache-manifest.52de6f2f30280034547f6577f59eb5e4.js": "/callbreak/precache-manifest.52de6f2f30280034547f6577f59eb5e4.js",
+    "precache-manifest.d7712b0289750655bb81e2500d170d50.js": "/callbreak/precache-manifest.d7712b0289750655bb81e2500d170d50.js",
     "service-worker.js": "/callbreak/service-worker.js",
-    "static/css/main.d442ce3b.chunk.css.map": "/callbreak/static/css/main.d442ce3b.chunk.css.map"
+    "static/css/main.8fe5989a.chunk.css.map": "/callbreak/static/css/main.8fe5989a.chunk.css.map"
   }
 }
